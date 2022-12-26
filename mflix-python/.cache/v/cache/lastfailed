@@ -1,0 +1,4 @@
+{
+  "tests/test_get_comments.py::test_fetch_comments_for_another_movie": true,
+  "tests/test_get_comments.py::test_fetch_comments_for_movie": true
+}
